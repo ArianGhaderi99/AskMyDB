@@ -107,13 +107,6 @@ Answer: تعداد سفارش‌های هر مشتری به این صورت اس
 
 The demo database (`shop.db`) has three tables: `customers`, `products`, and `orders`. You can point the app to your own SQLite file by changing `db_path` in `db.py`.
 
-### Roadmap
-
-- [ ] Web interface (Gradio or Streamlit)
-- [ ] Support for more databases (PostgreSQL, MySQL)
-- [ ] Automatic query retry when SQL fails
-- [ ] Tests and evaluation set of questions
-- [ ] Conversation memory (follow-up questions)
 
 ### Author
 
@@ -255,13 +248,6 @@ Answer: تعداد سفارش‌های هر مشتری به این صورت اس
 
 دیتابیس دمو (`shop.db`) سه جدول دارد: `customers`، `products` و `orders`. می‌توانید با تغییر `db_path` در فایل `db.py` برنامه را به فایل SQLite خودتان وصل کنید.
 
-### برنامه‌های آینده
-
-- [ ] رابط وب (Gradio یا Streamlit)
-- [ ] پشتیبانی از دیتابیس‌های بیشتر (PostgreSQL و MySQL)
-- [ ] تلاش مجدد خودکار وقتی SQL خطا می‌دهد
-- [ ] تست و مجموعه‌ی سؤال برای ارزیابی
-- [ ] حافظه‌ی گفتگو (سؤال‌های ادامه‌دار)
 
 ### سازنده
 
