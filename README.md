@@ -1,6 +1,6 @@
 # AskMyDB 🗄️🤖
 
-**Ask your database questions in plain language and get answers in Persian.**
+**Ask your database questions in plain language and get answers in Persian.** <br>
 **از دیتابیس‌ات به زبان ساده سؤال بپرس و جواب فارسی بگیر.**
 
 [English](#-english) | [فارسی](#-فارسی)
